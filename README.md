@@ -1,5 +1,5 @@
 # PrimeNumbers2
-Finding prime numbers with recursive methods
+Finding prime numbers with recursive methods.
 For a better understanding  we can add another method that takes the result from isPrime method.
  static void primeNumbers(){
         int start = 1,result = 1;
